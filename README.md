@@ -122,7 +122,7 @@ Gustav Richters Stiftelse (2021-00668)
 Chalmers ICT Area of Advance. 
 
 How to cite this data:
-McEvoy, Aina; Paul, Catherine; Modin, Oskar; Mohammadi, Amir Saeid, Murphy, Kathleen (2024). Data for: " Two novel methods for studying the production and removal of labile organic carbon in water". XXXX FIX XXXXXTechnical University of Denmark XXXX FIX XXXXX. Dataset. DOI hhttp
+McEvoy, Aina; Paul, Catherine; Modin, Oskar; Mohammadi, Amir Saeid, Murphy, Kathleen (2024). Data for: " New rapid methods for assessing the production and removal of labile organic carbon in water treatment using fluorescence and oxygen measurements ". DOI hhttpXXXX
 
 This dataset is published under the CC BY (Attribution) license.
 This license allows reusers to distribute, remix, adapt, and build upon the material in any medium or format, so long as attribution is given to the creator.
