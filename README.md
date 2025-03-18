@@ -1,4 +1,6 @@
 # LOCr_toolbox_for_oxygensensors
+Accompanying code and test dataset will be made public after publication of paper in journal.
+
 Title of the dataset:
 Oxygen sensor measurements for sodium acetate dilutions and natural wates. 
 
