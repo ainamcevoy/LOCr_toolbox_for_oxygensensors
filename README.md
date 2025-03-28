@@ -1,5 +1,4 @@
 # LOCr_toolbox_for_oxygensensors
-Accompanying code and test dataset will be made public after publication of paper in journal.
 
 Title of the dataset:
 Oxygen sensor measurements for sodium acetate dilutions and natural wates. 
@@ -16,8 +15,8 @@ Tomas McKelvey/ email:tomas.mckelvey@chalmers.se
 
 
 Related publication:
-The dataset is supplement to the publication: Two novel methods for studying the production and removal of labile organic carbon in water. 
-DOI: XXX
+The dataset is supplement to the publication: New rapid methods for assessing the production and removal of labile organic carbon in water treatment using fluorescence and oxygen measurements . 
+https://doi.org/10.1021/acsestwater.5c00153
 
 Description:
 Algorithm code and test data for extrakting Labile Oxygen Consumption rate (LOCr) from PreSense sensorvials raw data outputs.
@@ -124,7 +123,7 @@ Gustav Richters Stiftelse (2021-00668)
 Chalmers ICT Area of Advance. 
 
 How to cite this data:
-McEvoy, Aina; Paul, Catherine; Modin, Oskar; Mohammadi, Amir Saeid, Murphy, Kathleen (2025). Data for: " New rapid methods for assessing the production and removal of labile organic carbon in water treatment using fluorescence and oxygen measurements ". DOI hhttpXXXX
+McEvoy, Aina; Paul, Catherine; Modin, Oskar; Mohammadi, Amir Saeid, Murphy, Kathleen (2025). Data for: " New rapid methods for assessing the production and removal of labile organic carbon in water treatment using fluorescence and oxygen measurements https://doi.org/10.1021/acsestwater.5c00153 
 
 This dataset is published under the CC BY (Attribution) license.
 This license allows reusers to distribute, remix, adapt, and build upon the material in any medium or format, so long as attribution is given to the creator.
